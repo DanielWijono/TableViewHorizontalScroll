@@ -4,5 +4,4 @@ This github is all about implementing simple UITableView with tableviewcell that
 
 ### Apps UI
 
-Videos can be downloaded in this link : 
-https://github.com/DanielWijono/TableViewHorizontalScroll/blob/master/tableViewHorizontalScroll.mov
+![tableviewhorizontalscroll](https://user-images.githubusercontent.com/23281857/83051648-7f457700-a078-11ea-8e9a-0d1d728a3098.gif)
