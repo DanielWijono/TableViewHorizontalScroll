@@ -13,6 +13,8 @@
 		5B67FFE4247EB2C2000F5668 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B67FFE2247EB2C2000F5668 /* Main.storyboard */; };
 		5B67FFE6247EB2C8000F5668 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B67FFE5247EB2C8000F5668 /* Assets.xcassets */; };
 		5B67FFE9247EB2C8000F5668 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B67FFE7247EB2C8000F5668 /* LaunchScreen.storyboard */; };
+		5B67FFF2247EB373000F5668 /* ScrollHorizontalCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B67FFF0247EB373000F5668 /* ScrollHorizontalCell.swift */; };
+		5B67FFF3247EB373000F5668 /* ScrollHorizontalCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5B67FFF1247EB373000F5668 /* ScrollHorizontalCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		5B67FFE5247EB2C8000F5668 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5B67FFE8247EB2C8000F5668 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5B67FFEA247EB2C8000F5668 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5B67FFF0247EB373000F5668 /* ScrollHorizontalCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollHorizontalCell.swift; sourceTree = "<group>"; };
+		5B67FFF1247EB373000F5668 /* ScrollHorizontalCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ScrollHorizontalCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				5B67FFE5247EB2C8000F5668 /* Assets.xcassets */,
 				5B67FFE7247EB2C8000F5668 /* LaunchScreen.storyboard */,
 				5B67FFEA247EB2C8000F5668 /* Info.plist */,
+				5B67FFF0247EB373000F5668 /* ScrollHorizontalCell.swift */,
+				5B67FFF1247EB373000F5668 /* ScrollHorizontalCell.xib */,
 			);
 			path = TableviewHorizontalScroll;
 			sourceTree = "<group>";
@@ -127,6 +133,7 @@
 			files = (
 				5B67FFE9247EB2C8000F5668 /* LaunchScreen.storyboard in Resources */,
 				5B67FFE6247EB2C8000F5668 /* Assets.xcassets in Resources */,
+				5B67FFF3247EB373000F5668 /* ScrollHorizontalCell.xib in Resources */,
 				5B67FFE4247EB2C2000F5668 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -140,6 +147,7 @@
 			files = (
 				5B67FFE1247EB2C2000F5668 /* ViewController.swift in Sources */,
 				5B67FFDD247EB2C2000F5668 /* AppDelegate.swift in Sources */,
+				5B67FFF2247EB373000F5668 /* ScrollHorizontalCell.swift in Sources */,
 				5B67FFDF247EB2C2000F5668 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
